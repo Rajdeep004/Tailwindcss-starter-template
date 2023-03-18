@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* For responsive Layout 
+:root{ 
+  @apply text-[12px] tablet:text-[14px] laptop:text-[16px] desktop:text-[18px];
+}  */
